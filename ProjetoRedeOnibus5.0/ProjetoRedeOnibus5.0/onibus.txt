@@ -1,0 +1,5 @@
+Placa: BTR1A29, Marca: Marcopolo, Modelo: K440, Cor: Azul, Capacidade: 130
+Placa: QFX7C03, Marca: Neobus, Modelo: K250UB, Cor: Verde, Capacidade: 80
+Placa: LKM9B71, Marca: Comil, Modelo: B270F, Cor: Amarelo, Capacidade: 95
+Placa: ZVP0D88, Marca: Volvo, Modelo: B450R, Cor: Bege, Capacidade: 120
+Placa: WJG2F56, Marca: Scania, Modelo: K400IB, Cor: Laranja, Capacidade: 55

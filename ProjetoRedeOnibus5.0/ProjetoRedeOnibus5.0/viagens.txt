@@ -1,0 +1,5 @@
+Horário: 17h, Data de Saída: 11/04/2025, Data de Chegada: 13/04/2025, Valor da Passagem: R$ 150.20, Quantidade de Passageiros: 0
+Horário: 10h, Data de Saída: 06/04/2025, Data de Chegada: 06/04/2025, Valor da Passagem: R$ 10.50, Quantidade de Passageiros: 0
+Horário: 16h, Data de Saída: 10/04/2025, Data de Chegada: 10/04/2025, Valor da Passagem: R$ 25.00, Quantidade de Passageiros: 0
+Horário: 13h, Data de Saída: 09/04/2025, Data de Chegada: 09/04/2025, Valor da Passagem: R$ 7.50, Quantidade de Passageiros: 0
+Horário: 09h, Data de Saída: 23/04/2025, Data de Chegada: 23/04/2025, Valor da Passagem: R$ 3.50, Quantidade de Passageiros: 0

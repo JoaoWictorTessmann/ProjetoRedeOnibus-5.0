@@ -1,0 +1,5 @@
+ID: 01, Nome da Rota: Rodeio12, Quantidade de Paradas: 9, Início: Centro, Final: Rodeio12
+ID: 02, Nome da Rota: Centro, Quantidade de Paradas: 9, Início: Rodeio12, Final: Centro
+ID: 03, Nome da Rota: Pico, Quantidade de Paradas: 12, Início: Gloria, Final: Pico
+ID: 04, Nome da Rota: Diamante, Quantidade de Paradas: 15, Início: Centro, Final: Diamante
+ID: 05, Nome da Rota: Gloria, Quantidade de Paradas: 4, Início: Gavea, Final: Gloria
